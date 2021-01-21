@@ -18,6 +18,6 @@ Calculates Total Profit/Loss for CommSec from an imported CSV file.
 #### Download CSV
 ![Instruction_4](https://raw.githubusercontent.com/mattlau1/commsec-total-profit-loss/main/images/Screenshot_4.jpg)
 
-#### Replace CSV File in this repository
+### Replace CSV File in this repository
 
-#### Run `python calc.py`
+### Run `python calc.py`
