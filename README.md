@@ -1,7 +1,3 @@
-# CommSec Total Profit/Loss
-## What does it do?
-Calculates Total Profit/Loss for CommSec from an imported CSV file.
-
 ## Usage
 
 #### Manage Orders
