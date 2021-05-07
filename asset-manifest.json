@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/commsec-total-profit-loss/static/js/main.48f28c61.chunk.js",
-    "main.js.map": "/commsec-total-profit-loss/static/js/main.48f28c61.chunk.js.map",
-    "runtime-main.js": "/commsec-total-profit-loss/static/js/runtime-main.c83d2081.js",
-    "runtime-main.js.map": "/commsec-total-profit-loss/static/js/runtime-main.c83d2081.js.map",
-    "static/css/2.acd75131.chunk.css": "/commsec-total-profit-loss/static/css/2.acd75131.chunk.css",
-    "static/js/2.83be3e97.chunk.js": "/commsec-total-profit-loss/static/js/2.83be3e97.chunk.js",
-    "static/js/2.83be3e97.chunk.js.map": "/commsec-total-profit-loss/static/js/2.83be3e97.chunk.js.map",
-    "static/js/3.8344d56d.chunk.js": "/commsec-total-profit-loss/static/js/3.8344d56d.chunk.js",
-    "static/js/3.8344d56d.chunk.js.map": "/commsec-total-profit-loss/static/js/3.8344d56d.chunk.js.map",
-    "index.html": "/commsec-total-profit-loss/index.html",
-    "static/css/2.acd75131.chunk.css.map": "/commsec-total-profit-loss/static/css/2.acd75131.chunk.css.map",
-    "static/js/2.83be3e97.chunk.js.LICENSE.txt": "/commsec-total-profit-loss/static/js/2.83be3e97.chunk.js.LICENSE.txt"
+    "main.js": "/commsec-profit-loss/static/js/main.48f28c61.chunk.js",
+    "main.js.map": "/commsec-profit-loss/static/js/main.48f28c61.chunk.js.map",
+    "runtime-main.js": "/commsec-profit-loss/static/js/runtime-main.16dec114.js",
+    "runtime-main.js.map": "/commsec-profit-loss/static/js/runtime-main.16dec114.js.map",
+    "static/css/2.acd75131.chunk.css": "/commsec-profit-loss/static/css/2.acd75131.chunk.css",
+    "static/js/2.83be3e97.chunk.js": "/commsec-profit-loss/static/js/2.83be3e97.chunk.js",
+    "static/js/2.83be3e97.chunk.js.map": "/commsec-profit-loss/static/js/2.83be3e97.chunk.js.map",
+    "static/js/3.8344d56d.chunk.js": "/commsec-profit-loss/static/js/3.8344d56d.chunk.js",
+    "static/js/3.8344d56d.chunk.js.map": "/commsec-profit-loss/static/js/3.8344d56d.chunk.js.map",
+    "index.html": "/commsec-profit-loss/index.html",
+    "static/css/2.acd75131.chunk.css.map": "/commsec-profit-loss/static/css/2.acd75131.chunk.css.map",
+    "static/js/2.83be3e97.chunk.js.LICENSE.txt": "/commsec-profit-loss/static/js/2.83be3e97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c83d2081.js",
+    "static/js/runtime-main.16dec114.js",
     "static/css/2.acd75131.chunk.css",
     "static/js/2.83be3e97.chunk.js",
     "static/js/main.48f28c61.chunk.js"
