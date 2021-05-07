@@ -63,7 +63,10 @@ function App() {
             </Form.Group>
             <br></br>
             <Form.Group>
-              <Form.Label>Confirmation Details (ConfirmationDetails.csv)</Form.Label>
+              <Form.Label>
+                Confirmation Details (ConfirmationDetails.csv){" "}
+                <a href="https://github.com/mattlau1/commsec-profit-loss">(?)</a>
+              </Form.Label>
               <Form.File accept={".csv"} onChange={(e) => handleUploadCSV(e)} id="csv" />
             </Form.Group>
             <br></br>
