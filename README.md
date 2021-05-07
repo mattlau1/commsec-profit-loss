@@ -10,7 +10,7 @@ https://mattlau1.github.io/commsec-profit-loss/
 #### Confirmations
 ![Instruction 2](https://raw.githubusercontent.com/mattlau1/commsec-total-profit-loss/main/images/Screenshot_2.jpg)
 
-#### Change the Date
+#### Change the Date (if you want every trade, change the starting date to a date before you started buying/selling)
 ![Instruction_3](https://raw.githubusercontent.com/mattlau1/commsec-total-profit-loss/main/images/Screenshot_3.jpg)
 
 #### Download CSV
