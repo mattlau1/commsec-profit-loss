@@ -1,5 +1,9 @@
-## Usage
+## Website
+https://mattlau1.github.io/commsec-profit-loss/
+## Website instructions
+- Fill in current portfolio value, upload ConfirmationDetails.csv and click the Calculate button
 
+## How to get the CSV File
 #### Manage Orders
 ![Instruction 1](https://raw.githubusercontent.com/mattlau1/commsec-total-profit-loss/main/images/Screenshot_1.jpg)
 
@@ -12,6 +16,3 @@
 #### Download CSV
 ![Instruction_4](https://raw.githubusercontent.com/mattlau1/commsec-total-profit-loss/main/images/Screenshot_4.jpg)
 
-#### Replace CSV File in this repository
-
-#### Run `python calc.py`
