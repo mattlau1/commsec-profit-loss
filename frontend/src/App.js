@@ -1,4 +1,3 @@
-import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
@@ -53,7 +52,7 @@ function App() {
         <Row md={12}>
           <Form>
             <Form.Group>
-              <Form.Label>Current Total Portfolio Value</Form.Label>
+              <Form.Label>Current Portfolio Value</Form.Label>
               <Form.Control
                 onChange={(e) => {
                   setCurrPortfolio(e.target.value);
