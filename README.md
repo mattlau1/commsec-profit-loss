@@ -1,5 +1,9 @@
+## How it works
+This just sums all the net proceeds from ConfirmationDetails.csv and adds your current portfolio value.
+
 ## Website
 https://mattlau1.github.io/commsec-profit-loss/
+
 ## Website instructions
 - Fill in current portfolio value, upload ConfirmationDetails.csv and click the Calculate button
 
